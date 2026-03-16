@@ -1,4 +1,4 @@
-Preprocessing Files
+**Preprocessing Files**
 
 This folder contains the preprocessing files used to prepare the MIMIC-IV dataset before building the Neo4j knowledge graph.
 
@@ -6,7 +6,7 @@ The raw MIMIC tables are first cleaned and transformed into node and relationshi
 
 The goal of this step is simply to convert the relational EHR tables into graph-ready files.
 
-Data Source
+**Data Source**
 
 The data comes from the MIMIC-IV dataset. Only the tables needed for the knowledge graph were processed. Examples include:
 
